@@ -1,0 +1,44 @@
+*** 2024-07-18 17:20:10:633 ***
+documentNr : 826880 ; operations O79D06755B4B79080
+******
+
+*** 2024-07-18 17:21:50:954 ***
+documentNr : 817111 ; operations O5E7611576B1E4A0D
+******
+
+*** 2024-07-18 17:28:23:810 ***
+documentNr : 18398 ; operations OEED7C249486CFC75
+******
+
+*** 2024-07-18 17:29:33:789 ***
+documentNr : 741384 ; operations O422A1944C5DBBD19
+******
+
+*** 2024-07-18 17:30:48:649 ***
+documentNr : 173505 ; operations O0965421CBD7FA845
+******
+
+*** 2024-07-18 17:32:21:292 ***
+documentNr : 68517 ; operations OED484ED6B401F2BF
+******
+
+*** 2024-07-18 17:39:32:852 ***
+documentNr : 451604 ; operations O99F530F6AF348092
+******
+
+*** 2024-07-18 17:40:56:782 ***
+documentNr : 370379 ; operations OE5EE31231C15108E
+******
+
+*** 2024-07-18 17:41:36:685 ***
+documentNr :  ; operations O3FFE926C8DAB884D
+******
+
+*** 2024-07-18 17:45:33:518 ***
+documentNr : 115437 ; operations O9C4BC7E403E8F561
+******
+
+*** 2024-07-18 18:02:12:997 ***
+documentNr : 444389 ; operations OC6CA1441002136AF
+******
+

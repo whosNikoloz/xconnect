@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|c:\\users\\nikoloz\\source\\repos\\xconnecttest\\xconnecttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|solutionrelative:xconnecttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\xconnecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|solutionrelative:xconnecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\xconnecttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|solutionrelative:xconnecttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\xconnecttest\\utilitys\\loggingutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|solutionrelative:xconnecttest\\utilitys\\loggingutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\xconnecttest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1BFC19-B7DD-49D6-85A5-53FB805CB2A8}|XConnectTest\\XConnectTest.csproj|solutionrelative:xconnecttest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 599,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2029881168:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggingUtility.cs",
+              "DocumentMoniker": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Utilitys\\LoggingUtility.cs",
+              "RelativeDocumentMoniker": "XConnectTest\\Utilitys\\LoggingUtility.cs",
+              "ToolTip": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Utilitys\\LoggingUtility.cs",
+              "RelativeToolTip": "XConnectTest\\Utilitys\\LoggingUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:26:00.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Program.cs",
+              "RelativeDocumentMoniker": "XConnectTest\\Program.cs",
+              "ToolTip": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Program.cs",
+              "RelativeToolTip": "XConnectTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:07:29.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Form1.cs",
+              "RelativeDocumentMoniker": "XConnectTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Form1.cs",
+              "RelativeToolTip": "XConnectTest\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAEwCQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:27:20.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Form1.cs",
+              "RelativeDocumentMoniker": "XConnectTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Form1.cs [Design]",
+              "RelativeToolTip": "XConnectTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:14:55.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "XConnectTest\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\NIKOLOZ\\source\\repos\\XConnectTest\\XConnectTest\\Form1.Designer.cs",
+              "RelativeToolTip": "XConnectTest\\Form1.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:34:38.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
